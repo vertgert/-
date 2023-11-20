@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Нейросети</title>
+  <style>
+    /* CSS стили для сайта */
+    body {
+      font-family: Arial, sans-serif;
+    }
+    
+    header {
+      background-color: #f5f5f5;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    nav {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+    }
+    
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin-right: 10px;
+    }
+    
+    section {
+      padding: 20px;
+    }
+    
+    footer {
+      background-color: #f5f5f5;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Нейросети</h1>
+  </header>
+
+  <nav>
+    <a href="#">Описание</a>
+    <a href="#">Реализация</a>
+    <a href="#">Применение</a>
+  </nav>
+
+  <section>
+    <h2>Описание</h2>
+    <p>Здесь можно добавить описание нейросетей и их принцип работы.</p>
+  </section>
+
+  <section>
+    <h2>Реализация</h2>
+    <p>Здесь можно рассказать о различных алгоритмах реализации нейросетей и используемых библиотеках.</p>
+  </section>
+
+  <section>
+    <h2>Применение</h2>
+    <p>Здесь можно описать области применения нейросетей, такие как распознавание образов, обработка естественного языка и т.д.</p>
+  </section>
+
+  <footer>
+    <p>Все права защищены © 2021</p>
+  </footer>
+</body>
+</html>
